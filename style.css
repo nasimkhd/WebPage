@@ -1,0 +1,138 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 15px;
+  overflow: hidden;
+  background-color: #dddddd;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+}
+
+.nav {
+  padding: 10px;
+  text-align: left;
+  color: blanchedalmond;
+}
+
+.font_9 {
+  text-align: center;
+  line-height: 1.875em;
+  font-size: 15px;
+}
+
+.font_7 {
+  text-align: center;
+  line-height: 1.67em;
+  font-size: 20px;
+}
+.color_18 {
+  color: brown;
+}
+.img {
+  width: 1350px;
+  height: 250px;
+  object-fit: cover;
+  object-position: 50% 50%;
+  padding-left: 70px;
+}
+.contact {
+  color: cornsilk;
+  display: inline-block;
+  text-align: center;
+  background-color: brown;
+  padding: 10px;
+}
+
+.story {
+  width: 1350px;
+  height: 250px;
+  object-fit: cover;
+  object-position: 50% 50%;
+  padding-left: 70px;
+}
+
+.font_4 {
+  text-align: center;
+  line-height: 1.25em;
+  font-size: 72px;
+}
+.font_0 {
+  text-align: center;
+  line-height: 1.41em;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.font_7 {
+  text-align: center;
+  line-height: 1.67em;
+  font-size: 20px;
+}
+.color_15 {
+  font-size: 20px;
+}
+
+.block1 {
+  background-color: lightgrey;
+  padding: 20px;
+}
+.font_6 {
+  height: 20px;
+  text-align: center;
+  line-height: 1.35em;
+  font-size: 40px;
+}
+.font_8 {
+  text-align: center;
+  line-height: 1.75em;
+  font-size: 18px;
+}
+
+.database {
+  display: block;
+  text-align: center;
+  height: 10%;
+}
+.project {
+  padding-left: 40%;
+  display: block;
+  text-align: center;
+  height: 150px;
+  width: 300px;
+}
+#color {
+  background-color: moccasin;
+}
+
+.form {
+  background-color: whitesmoke;
+  
+}
+
+.font_10 {
+  text-align: center;
+  line-height: 1.79em;
+  font-size: 14px;
+}
+
+
+
+
+  .Information {
+    float: left;
+    width: 50%;
+  }
+  
+  .Info {
+    float: left;
+    width: 50%;
+  }
+  
+  
